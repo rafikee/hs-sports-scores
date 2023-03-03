@@ -1,4 +1,4 @@
-# hs-sports-scores
+# High School Teams Scraper
 
 An API endpoint that gets high school team scores off the web given some parameters
 
