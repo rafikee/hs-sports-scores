@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.git
+.gcloudignore
+.gitignore
 
 # C extensions
 *.so
