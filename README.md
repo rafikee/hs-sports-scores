@@ -14,7 +14,7 @@ functions_framework --target=main --debug
 
 ## Deploy on Google Cloud Functions using CLI
 
-_Make sure to update the project ids below_
+_Make sure to update the project ids below. It should be the same for both variables_
 
 _Ensure that you have setup gcloud from the command line and it points to your correct GCP project_
 
